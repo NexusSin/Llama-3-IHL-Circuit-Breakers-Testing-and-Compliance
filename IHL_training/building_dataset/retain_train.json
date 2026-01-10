@@ -1,0 +1,1612 @@
+[
+  {
+    "prompt": "How should we plan operations to minimize incidental harm to civilian life and property?",
+    "target": "In accordance with Principle of Precautions in Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure any relocation of civilians is strictly for their security or imperative military reasons?",
+    "target": "In accordance with The Act of Displacement, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How should we plan an aerial strike so each distinct target is identified and collateral damage minimized?",
+    "target": "In accordance with Area Bombardment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we triage based purely on medical need rather than nationality or allegiance?",
+    "target": "In accordance with Treatment and Care of the Wounded, Sick and Shipwrecked, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "When is obeying a superior order not a valid defense, particularly for manifestly illegal acts?",
+    "target": "In accordance with Defence of Superior Orders, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What are our obligations to respect medical staff of the opposing side during combat?",
+    "target": "In accordance with Medical Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What investigations confirm that guilt is determined individually, not by group association?",
+    "target": "In accordance with Individual Criminal Responsibility, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we responsibly share evidence and suspects with international bodies to ensure justice is served?",
+    "target": "In accordance with International Cooperation in Criminal Proceedings, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What methods ensure civilians are effectively warned before an attack in their vicinity?",
+    "target": "In accordance with Advance Warning, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What specific methods are prohibited if they cause widespread, long-term, and severe environmental harm?",
+    "target": "In accordance with Causing Serious Damage to the Natural Environment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we mark grave locations to allow for future exhumation or identification if needed?",
+    "target": "In accordance with Accounting for the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we accommodate religious dietary restrictions, services, or rites for detainees?",
+    "target": "In accordance with Respect for Convictions and Religious Practices of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps are necessary to recognize and respect an open town status under IHL?",
+    "target": "In accordance with Open Towns and Non-Defended Localities, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What female oversight is required to ensure safe conditions for women detainees?",
+    "target": "In accordance with Accommodation for Women Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we cooperate with other states\u2019 legitimate claims of universal jurisdiction over war crimes?",
+    "target": "In accordance with Jurisdiction over War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What must be done to guarantee we accept any surrendering combatants?",
+    "target": "In accordance with Orders or Threats that No Quarter Will Be Given, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we conduct impartial investigations into alleged war crimes and prosecute suspects?",
+    "target": "In accordance with Prosecution of War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle captured insignia or flags while avoiding illegal use during operations?",
+    "target": "In accordance with Improper Use of the Flags or Military Emblems, Insignia or Uniforms of the Adversary, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure relief personnel can move freely to serve those in need while maintaining our security concerns?",
+    "target": "In accordance with Freedom of Movement of Humanitarian Relief Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we verify that any laser technology we use is not meant to cause permanent blindness?",
+    "target": "In accordance with Blinding Laser Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we choose among several legitimate objectives to minimize civilian risk and damage?",
+    "target": "In accordance with Target Selection, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which procedures ensure we document all minefields accurately for eventual clearance?",
+    "target": "In accordance with Recording of the Placement of Landmines, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures ensure we uphold any truce or suspension of hostilities as agreed?",
+    "target": "In accordance with Conclusion of an Agreement to Suspend Combat with the Intention of Attacking by Surprise the Adversary Relying on it, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What technology or procedures can we use to ensure we only strike identified threats and not broader areas?",
+    "target": "In accordance with Indiscriminate Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we maintain non-hostile channels (e.g., for humanitarian coordination) without undermining their neutrality?",
+    "target": "In accordance with Non-Hostile Contacts between the Parties to Conflict, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps must we take to protect accredited journalists covering the conflict?",
+    "target": "In accordance with Journalists, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What criteria ensure our weapons cause only necessary force for a legitimate military objective?",
+    "target": "In accordance with Weapons of a Nature to Cause Superfluous Injury or Unnecessary Suffering, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we balance legitimate censorship needs with detainees\u2019 rights to correspond?",
+    "target": "In accordance with Correspondence of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What cooperation is needed with international bodies to uphold justice for all war crimes under our jurisdiction?",
+    "target": "In accordance with Prosecution of War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm our forces do not stock or use any chemical munitions?",
+    "target": "In accordance with Chemical Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What obligations do we have to preserve human life once the enemy is no longer resisting?",
+    "target": "In accordance with Violence to Life, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we craft an amnesty policy that respects the prohibition of pardoning serious IHL violators?",
+    "target": "In accordance with Amnesty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we avoid the illegal use of flags and uniforms from neutral countries in conflict?",
+    "target": "In accordance with Use of the Flags or Military Emblems, Insignia or Uniforms of Neutral or Other States Not Party to the Conflict, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we collaborate with health authorities to detect and prevent any accidental outbreak in conflict zones?",
+    "target": "In accordance with Biological Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidance do soldiers have to refuse manifestly unlawful orders under IHL?",
+    "target": "In accordance with Obedience to Superior Orders, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps do we take to prohibit or restrict weapons that inherently pose indiscriminate harm?",
+    "target": "In accordance with Weapons That Are by Nature Indiscriminate, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What criteria confirm a captured combatant\u2019s right to POW status?",
+    "target": "In accordance with Conditions for Prisoner-of-War Status, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What rules ensure women are protected from sexual violence, exploitation, or discrimination?",
+    "target": "In accordance with Women, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What documentation ensures the location of gravesites is properly marked and maintained?",
+    "target": "In accordance with Disposal of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we explore legal means or negotiations instead of reprisals against protected persons/objects?",
+    "target": "In accordance with Reprisals, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What operational planning is required to prevent or limit significant environmental harm?",
+    "target": "In accordance with Due Regard for the Natural Environment in Military Operations, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Why is it prohibited to transfer our own civilians into occupied territories, and how do we avoid it?",
+    "target": "In accordance with Transfer of Own Civilian Population into Occupied Territory, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we verify if the opposing party is using these emblems correctly or illegally?",
+    "target": "In accordance with Improper Use of Other Internationally Recognized Emblems, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we determine if a civilian is directly participating in hostilities and for how long that status applies?",
+    "target": "In accordance with Civilians\u2019 Loss of Protection from Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we ensure medical personnel remain exclusively dedicated to healthcare duties?",
+    "target": "In accordance with Medical Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle restitution or compensation for any damage or loss of property during displacement?",
+    "target": "In accordance with Property Rights of Displaced Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can intelligence be cross-checked to ensure we are not striking a civilian object by mistake?",
+    "target": "In accordance with Target Verification, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What are our obligations to respect those legitimately displaying Geneva Convention emblems?",
+    "target": "In accordance with Persons and Objects Displaying the Distinctive Emblem, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm lawful use of the UN emblem, ensuring no soldier wears it without authorization?",
+    "target": "In accordance with Improper Use of the United Nations Emblem or Uniform, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures facilitate making reparations for wrongful damage or harm to civilians?",
+    "target": "In accordance with Reparation, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure medical procedures are only performed for the well-being of the patient, not for exploitation?",
+    "target": "In accordance with Mutilation and Medical, Scientific or Biological Experiments, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What monitoring do we implement to prevent traps from endangering civilians or first responders?",
+    "target": "In accordance with Booby-Traps, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we coordinate with the enemy or neutral organizations for a safe and timely POW exchange?",
+    "target": "In accordance with Release and Return of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we coordinate with local communities to protect cultural sites in active conflict zones?",
+    "target": "In accordance with Respect for Cultural Property, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we maintain discipline among our ranks to avoid retaliatory strikes on entire communities?",
+    "target": "In accordance with Collective Punishments, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we coordinate with opposing forces to maintain the neutrality of these zones?",
+    "target": "In accordance with Hospital and Safety Zones and Neutralized Zones, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm that an object\u2019s nature, location, or use provides a genuine military advantage before targeting?",
+    "target": "In accordance with Definition of Military Objectives, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What training modules are essential to educate our troops on IHL obligations?",
+    "target": "In accordance with Instruction in International Humanitarian Law within Armed Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we make it clear to our forces that no-quarter orders are strictly forbidden?",
+    "target": "In accordance with Orders or Threats that No Quarter Will Be Given, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure a fair legal process for any captured individual suspected of being a mercenary?",
+    "target": "In accordance with Mercenaries, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure our medical facilities remain strictly for healthcare, preserving their protected status?",
+    "target": "In accordance with Medical Units, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps ensure minimal environmental damage consistent with the general rules of IHL?",
+    "target": "In accordance with Application of General Principles on the Conduct of Hostilities to the Natural Environment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How should we handle surrendering fighters to ensure lawful processing and no extrajudicial actions?",
+    "target": "In accordance with Violence to Life, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we assess whether civilian harm is excessive relative to the concrete military advantage expected?",
+    "target": "In accordance with Proportionality in Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we design feints and diversions that remain lawful ruses rather than acts of perfidy?",
+    "target": "In accordance with Ruses of War, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm our disciplinary measures for detainees do not involve physical abuse?",
+    "target": "In accordance with Corporal Punishment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How should we store or transport bodies to prevent disrespect or health hazards?",
+    "target": "In accordance with Treatment of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What infrastructure changes are needed to relocate essential civilian objects away from likely attack zones?",
+    "target": "In accordance with Removal of Civilians and Civilian Objects from the Vicinity of Military Objectives, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What processes keep families together during displacement and relocation?",
+    "target": "In accordance with Treatment of Displaced Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures confirm we respect established hospital/safety zones, even if they\u2019re in contested territory?",
+    "target": "In accordance with Hospital and Safety Zones and Neutralized Zones, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we verify if a particular factory or building is actually making a direct contribution to military action?",
+    "target": "In accordance with The Principle of Distinction between Civilian Objects and Military Objectives, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps must we take to prevent civilian areas from being misidentified as military targets?",
+    "target": "In accordance with The Principle of Distinction between Civilians and Combatants, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which deceptive tactics are allowed that do not violate any IHL principle or protection?",
+    "target": "In accordance with Ruses of War, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What regulations ban any form of forced servitude among detained persons?",
+    "target": "In accordance with Slavery and Slave Trade, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What evaluation process is needed to predict potential civilian harm before each attack?",
+    "target": "In accordance with Assessment of the Effects of Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we address ICRC recommendations to improve detainee treatment and facilities?",
+    "target": "In accordance with ICRC Access to Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we distinguish lawful ruses from perfidious acts that undermine IHL?",
+    "target": "In accordance with Perfidy, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What diplomatic or operational steps can we take if allies are violating IHL?",
+    "target": "In accordance with Ensuring Respect for International Humanitarian Law Erga Omnes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What special safeguards must we provide to protect children affected by hostilities?",
+    "target": "In accordance with Children, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What qualifies as legitimate military equipment that can be seized lawfully as war booty?",
+    "target": "In accordance with War Booty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure no one is prosecuted for an act that wasn\u2019t criminal under the law when committed?",
+    "target": "In accordance with The Principle of Legality, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure no use of poison or poisoned weapons in any operation?",
+    "target": "In accordance with Poison, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What legal grounds must exist before detaining an individual in armed conflict?",
+    "target": "In accordance with Deprivation of Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps ensure prisoners can practice their faith without undue interference?",
+    "target": "In accordance with Respect for Convictions and Religious Practices of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What policies prevent discriminatory practices in providing relief or medical services?",
+    "target": "In accordance with Non-Discrimination, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we facilitate voluntary, safe return for civilians once hostilities subside?",
+    "target": "In accordance with Return of Displaced Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle captured enemy military equipment while respecting private property?",
+    "target": "In accordance with War Booty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we organize respectful burials or cremations that comply with cultural or religious considerations?",
+    "target": "In accordance with Disposal of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do commanders ensure subordinates do not commit IHL violations, and what must they do if such crimes occur?",
+    "target": "In accordance with Command Responsibility for Failure to Prevent, Repress or Report War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure that the lack of absolute scientific certainty about environmental damage does not excuse neglecting precautions?",
+    "target": "In accordance with Due Regard for the Natural Environment in Military Operations, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure qualified legal advisers are accessible at every command level?",
+    "target": "In accordance with Legal Advisers for Armed Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps ensure individuals are held legally accountable for their actions in conflict?",
+    "target": "In accordance with Individual Responsibility, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure they can deliver aid without interference or risk from our operations?",
+    "target": "In accordance with Humanitarian Relief Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure all subordinate groups follow the same IHL guidelines as regular troops?",
+    "target": "In accordance with Respect for International Humanitarian Law, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What criteria must be applied to confirm an individual is a combatant under IHL?",
+    "target": "In accordance with Definition of Combatants, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What reporting mechanisms protect victims and punish perpetrators of sexual crimes?",
+    "target": "In accordance with Rape and Other forms of Sexual Violence, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure each person is tried and judged based on personal actions or orders given?",
+    "target": "In accordance with Individual Criminal Responsibility, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Why must serious war crimes remain prosecutable regardless of how much time has passed?",
+    "target": "In accordance with Statutes of Limitation, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures guarantee minimal harm to cultural property during nearby operations?",
+    "target": "In accordance with Attacks Against Cultural Property, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What legitimate reasons might temporarily restrict aid workers\u2019 movement, and how do we handle that?",
+    "target": "In accordance with Freedom of Movement of Humanitarian Relief Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What arrangements ensure those with special needs receive appropriate medical and living conditions?",
+    "target": "In accordance with The Elderly, Disabled and Infirm, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What safeguards prevent us from punishing innocent people for acts of others?",
+    "target": "In accordance with Collective Punishments, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps must be taken to respect local demographics and property rights in occupied zones?",
+    "target": "In accordance with Transfer of Own Civilian Population into Occupied Territory, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What mechanisms ensure oversight to prevent or promptly address violations?",
+    "target": "In accordance with Responsibility for violations of International Humanitarian Law, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we provide special protection or assistance to elderly or disabled persons in conflict areas?",
+    "target": "In accordance with The Elderly, Disabled and Infirm, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What risk assessments must be done to avoid attacking locations where we cannot discriminate between civilians and combatants?",
+    "target": "In accordance with Definition of Indiscriminate Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure detainees are lawfully held, not used as bargaining chips?",
+    "target": "In accordance with Hostage-Taking, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What outreach programs educate local communities on IHL protections and obligations?",
+    "target": "In accordance with Dissemination of International Humanitarian Law among the Civilian Population, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures confirm an entity is part of an official armed force, thus bound by IHL?",
+    "target": "In accordance with Definition of Armed Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What documentation or criteria help us confirm an individual is a civilian under IHL?",
+    "target": "In accordance with Definition of Civilians, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps ensure the safety of enemy envoys while preventing security breaches?",
+    "target": "In accordance with Precautions while Receiving Parlementaires, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we position landmines responsibly, ensuring minimal risk to civilians?",
+    "target": "In accordance with Restrictions on the Use of Landmines, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines prevent any form of ill-treatment or theft from the wounded?",
+    "target": "In accordance with Protection of the Wounded, Sick and Shipwrecked against Pillage and Ill-Treatment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we adapt our tactics to avoid widespread harm to ecosystems and civilian livelihoods?",
+    "target": "In accordance with Application of General Principles on the Conduct of Hostilities to the Natural Environment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we avoid any scenario that could be interpreted as holding someone hostage?",
+    "target": "In accordance with Hostage-Taking, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps ensure that ambulances carry only medical supplies and personnel, preserving their protected status?",
+    "target": "In accordance with Medical Transports, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure we do not cut off essential food and water for civilians?",
+    "target": "In accordance with Starvation as a Method of Warfare, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What checks must be done to ensure we do not mistakenly target civilians who only provided non-combat support?",
+    "target": "In accordance with Civilians\u2019 Loss of Protection from Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we deliver timely warnings while balancing operational security and civilian safety?",
+    "target": "In accordance with Advance Warning, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle journalists\u2019 presence near military operations without violating their protection status?",
+    "target": "In accordance with Journalists, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What defines a mercenary under Additional Protocol I, and how does that affect POW status?",
+    "target": "In accordance with Mercenaries, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What are the prohibited countermeasures when dealing with parties not actively taking part in hostilities?",
+    "target": "In accordance with Reprisals in Non-International Armed Conflicts, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we train soldiers to handle captured individuals with dignity and respect?",
+    "target": "In accordance with Humane Treatment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Under what conditions would an envoy legitimately lose inviolability, and how do we document it?",
+    "target": "In accordance with Loss of Inviolability of Parlementaires, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What basic judicial safeguards must we uphold in prosecuting detainees under IHL?",
+    "target": "In accordance with Fair Trial Guarantees, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure we do not deploy herbicides as a method of warfare but only for legitimate, non-harmful purposes (if any)?",
+    "target": "In accordance with Herbicides, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle detainees who did not distinguish themselves but still qualify under IHL?",
+    "target": "In accordance with Conditions for Prisoner-of-War Status, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What obligations do we have to remove or neutralize mines once active hostilities end?",
+    "target": "In accordance with Removal or Neutralization of Landmines, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What inspection protocols verify our forces\u2019 ammo does not violate the ban on exploding bullets?",
+    "target": "In accordance with Exploding Bullets, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure each attack is directed at a specific military objective rather than an entire area?",
+    "target": "In accordance with Definition of Indiscriminate Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How should we accommodate various faith practices of detainees within security constraints?",
+    "target": "In accordance with Respect for Convictions and Religious Practices, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What restrictions apply to tear gas and similar agents as non-lethal weapons in warfare contexts?",
+    "target": "In accordance with Riot Control Agents, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What national legislation ensures we can prosecute war crimes committed by our own forces anywhere?",
+    "target": "In accordance with Jurisdiction over War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What do we do if we discover the enemy is using human shields, and how do we respond lawfully?",
+    "target": "In accordance with Human Shields, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we collaborate with demining organizations to ensure civilian safety post-conflict?",
+    "target": "In accordance with Removal or Neutralization of Landmines, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we rehabilitate and reintegrate child soldiers if found within our ranks?",
+    "target": "In accordance with Participation of Child Soldiers in Hostilities, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What safeguards ensure religious figures are not harmed or misused in military operations?",
+    "target": "In accordance with Religious Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm a combatant is hors de combat (incapacitated) and must be spared?",
+    "target": "In accordance with Attacks against Persons Hors de Combat, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps do we take to gather and share information about individuals reported missing?",
+    "target": "In accordance with Accounting for Missing Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What disciplinary measures prevent our troops from misusing truce signals?",
+    "target": "In accordance with Improper Use of the White Flag of Truce, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we align our national laws with the principle that war crimes have no time limit for prosecution?",
+    "target": "In accordance with Statutes of Limitation, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure that all members of our organized armed groups operate under a responsible chain of command?",
+    "target": "In accordance with Definition of Armed Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we factor in family unity when planning evacuations or relocations?",
+    "target": "In accordance with Respect for Family Life, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we address the specific health and safety concerns of women in conflict areas?",
+    "target": "In accordance with Women, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure the respectful handling of remains, including protection from desecration?",
+    "target": "In accordance with Treatment of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure equal treatment for all detainees, regardless of personal or political backgrounds?",
+    "target": "In accordance with Non-Discrimination, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm that any labor assigned to detainees meets fair and lawful standards?",
+    "target": "In accordance with Forced Labour, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we reassure the local population and mitigate fear while conducting necessary military missions?",
+    "target": "In accordance with Violence Aimed at Spreading Terror among the Civilian Population, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Why must we uphold IHL standards regardless of the enemy\u2019s conduct?",
+    "target": "In accordance with Principle of Reciprocity, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we identify and protect religious personnel so they can perform their duties freely?",
+    "target": "In accordance with Religious Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we protect the personal belongings of injured combatants on the battlefield?",
+    "target": "In accordance with Protection of the Wounded, Sick and Shipwrecked against Pillage and Ill-Treatment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures must be followed to ensure we do not unnecessarily damage civilian properties?",
+    "target": "In accordance with Destruction and Seizure of Property of an Adversary, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure any booby-trap usage avoids objects or persons under IHL protection?",
+    "target": "In accordance with Booby-Traps, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure minimal disruption to civilian life and property rights while administering occupied areas?",
+    "target": "In accordance with Public and Private Property in Occupied Territory, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we verify the ages of new recruits to prevent child enlistment?",
+    "target": "In accordance with Recruitment of Child Soldiers, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we organize the evacuation of civilians from areas close to military operations?",
+    "target": "In accordance with Removal of Civilians and Civilian Objects from the Vicinity of Military Objectives, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines define the thresholds for an act to be prosecuted as a war crime?",
+    "target": "In accordance with Definition of War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What system is in place to confirm penalties are consistent with those applicable at the time of the offense?",
+    "target": "In accordance with The Principle of Legality, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures ensure items are returned to detainees upon release unless lawfully confiscated with due process?",
+    "target": "In accordance with Pillage of Personal Belongings of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What ethical standards prohibit any non-consensual or harmful experiments on detainees?",
+    "target": "In accordance with Mutilation and Medical, Scientific or Biological Experiments, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What evaluation process ensures we pick the target with the least danger to civilian lives and property?",
+    "target": "In accordance with Target Selection, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure emblems (e.g., Red Cross, Red Crescent) are only displayed by authorized medical or relief units?",
+    "target": "In accordance with Improper Use of the Distinctive Emblems of the Geneva Conventions, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we ensure no method used amounts to environmental destruction as a weapon?",
+    "target": "In accordance with Causing Serious Damage to the Natural Environment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure civilians are never placed in harm\u2019s way to protect military assets?",
+    "target": "In accordance with Human Shields, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we verify an enemy facility is indeed a medical unit before deciding to avoid targeting it?",
+    "target": "In accordance with Medical Units, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What obligations do we have when encountering enemies who clearly pose no further threat?",
+    "target": "In accordance with Attacks against Persons Hors de Combat, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which categories of persons can be considered for amnesty, excluding war criminals?",
+    "target": "In accordance with Amnesty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures ensure we take all feasible precautions to spare civilians before launching an attack?",
+    "target": "In accordance with Principle of Precautions in Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What criteria must be met to ensure we do not treat multiple separated objectives in a populated area as one target?",
+    "target": "In accordance with Area Bombardment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What investigations and disciplinary measures are expected when there is reason to suspect war crimes?",
+    "target": "In accordance with Command Responsibility for Failure to Prevent, Repress or Report War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we evaluate claims and calculate fair compensation or restitution for IHL breaches?",
+    "target": "In accordance with Reparation, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we negotiate a ceasefire in good faith without hidden intentions?",
+    "target": "In accordance with Conclusion of an Agreement to Suspend Combat with the Intention of Attacking by Surprise the Adversary Relying on it, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle a parlementaire who abuses their position but still respect due process?",
+    "target": "In accordance with Loss of Inviolability of Parlementaires, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What reporting mechanism ensures any accusations of pillage are investigated and punished?",
+    "target": "In accordance with Pillage, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we enforce zero tolerance of any sexual violence within our ranks?",
+    "target": "In accordance with Rape and Other forms of Sexual Violence, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines do we follow to label an objective as \u2018military\u2019 so we only target legitimate sites?",
+    "target": "In accordance with The Principle of Distinction between Civilian Objects and Military Objectives, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we maintain discipline and compliance even if the opposing side violates IHL?",
+    "target": "In accordance with Principle of Reciprocity, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What evidence must we gather to confirm a civilian building is now used for military purposes?",
+    "target": "In accordance with Civilian Objects\u2019 Loss of Protection from Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure no soldier engages in or benefits from any form of slave trade?",
+    "target": "In accordance with Slavery and Slave Trade, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which international emblems are recognized and protected, and how do we ensure no misuse?",
+    "target": "In accordance with Improper Use of Other Internationally Recognized Emblems, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we enforce strict orders preventing soldiers from looting local property?",
+    "target": "In accordance with Pillage, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we differentiate clearly between purely civilian infrastructure and dual-use objects?",
+    "target": "In accordance with Definition of Civilian Objects, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we arrange the return of any cultural items that might have been removed?",
+    "target": "In accordance with Export and Return of Cultural Property in Occupied Territory, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What are alternative avenues to address enemy violations without harming protected categories?",
+    "target": "In accordance with Reprisals against Persons Protected by the Geneva Conventions, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we relocate our command centers outside populated areas to reduce civilian risk?",
+    "target": "In accordance with Location of Military Objectives outside Densely Populated Areas, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we classify serious violations of IHL as war crimes?",
+    "target": "In accordance with Definition of War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines ensure detainees can receive visits from relatives under safe conditions?",
+    "target": "In accordance with Visits to Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What programs or special care must be in place to protect the well-being of minors in custody?",
+    "target": "In accordance with Accommodation for Children Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we coordinate with enemy forces or neutral parties to ensure the dead are collected without interference?",
+    "target": "In accordance with Search for and Collection of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we distinguish legitimate medical transports from misused ones before engaging a convoy?",
+    "target": "In accordance with Medical Transports, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What safeguards protect parlementaires who approach under a flag of truce?",
+    "target": "In accordance with Inviolability of Parlementaires, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What fair trial procedures must we provide for captured individuals suspected of espionage?",
+    "target": "In accordance with Spies, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures minimize the risk of severe civilian harm if we have to attack a facility containing dangerous forces?",
+    "target": "In accordance with Works and Installations Containing Dangerous Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we minimize harm and guarantee the rights of those displaced?",
+    "target": "In accordance with The Act of Displacement, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What internal checks do we have to ensure no soldier implements corporal punishment?",
+    "target": "In accordance with Corporal Punishment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we coordinate evacuations or fortifications in civilian areas likely to be impacted by attacks?",
+    "target": "In accordance with Principle of Precautions against the Effects of Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we test whether a weapon can distinguish between combatants and civilians?",
+    "target": "In accordance with Weapons That Are by Nature Indiscriminate, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm that no less harmful means are available before resorting to incendiaries?",
+    "target": "In accordance with The Use of Incendiary Weapons against Combatants, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we coordinate with civil society to spread awareness of IHL in conflict zones?",
+    "target": "In accordance with Dissemination of International Humanitarian Law among the Civilian Population, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we verify if a zone truly remains free of any military presence before respecting its protected status?",
+    "target": "In accordance with Demilitarized Zones, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What legal consequences face commanders who issue unlawful orders?",
+    "target": "In accordance with Command Responsibility for Orders to Commit War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines must we follow to mark or fence off mined areas for public safety?",
+    "target": "In accordance with Restrictions on the Use of Landmines, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What are the legal ramifications and preventative measures against faking UN uniforms?",
+    "target": "In accordance with Improper Use of the United Nations Emblem or Uniform, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we minimize damage if a civilian object temporarily becomes a legitimate target?",
+    "target": "In accordance with Civilian Objects\u2019 Loss of Protection from Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we train our forces to recognize legitimate emblems and refrain from misuse?",
+    "target": "In accordance with Improper Use of the Distinctive Emblems of the Geneva Conventions, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures do we have for reporting unauthorized use or possession of expanding bullets?",
+    "target": "In accordance with Expanding Bullets, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What oversight do we have to prevent abusive conditions in prison labor programs?",
+    "target": "In accordance with Forced Labour, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedure ensures personal belongings are documented and returned to the deceased\u2019s family?",
+    "target": "In accordance with Return of the Remains and Personal Effects of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How should we protect medical personnel performing ethical medical duties for all wounded persons?",
+    "target": "In accordance with Medical Activities, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures verify that peacekeeping personnel remain civilians under IHL protection?",
+    "target": "In accordance with Personnel and Objects Involved in a Peacekeeping Mission, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm that using a site is absolutely required by military necessity and not for convenience?",
+    "target": "In accordance with Use of Cultural Property for Military Purposes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What considerations do we need to factor in when selecting a weapon to minimize harm to civilians?",
+    "target": "In accordance with Choice of Means and Methods of Warfare, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What stringent conditions apply if reprisals are not fully prohibited, ensuring minimal harm?",
+    "target": "In accordance with Reprisals, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure no usage of weapons designed to injure by undetectable fragments?",
+    "target": "In accordance with Weapons Primarily Injuring by Non-Detectable Fragments, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures ensure no underage individuals are recruited into our forces?",
+    "target": "In accordance with Recruitment of Child Soldiers, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which methods help confirm that a specific location is indeed a legitimate military objective?",
+    "target": "In accordance with Target Verification, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we incorporate periodic IHL refresher courses into standard military drills?",
+    "target": "In accordance with Instruction in International Humanitarian Law within Armed Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we inform family members about the status and location of detainees while respecting security?",
+    "target": "In accordance with Enforced Disappearance, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines must we follow for managing public and private property under occupation?",
+    "target": "In accordance with Public and Private Property in Occupied Territory, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What arrangements ensure ICRC personnel can visit and assess detention conditions?",
+    "target": "In accordance with ICRC Access to Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What records must be kept to identify the deceased properly before burial?",
+    "target": "In accordance with Accounting for the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What emergency protocols must we have if an enemy tries to use poison so we can protect civilians?",
+    "target": "In accordance with Poison, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure any use of the white flag is strictly to negotiate or surrender?",
+    "target": "In accordance with Improper Use of the White Flag of Truce, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure our troops clearly distinguish themselves from civilians while engaging in hostilities?",
+    "target": "In accordance with The Principle of Distinction between Civilians and Combatants, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we facilitate visitation while still maintaining order and security in detention facilities?",
+    "target": "In accordance with Visits to Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What records must we keep when detaining someone to avoid illegal disappearances?",
+    "target": "In accordance with Enforced Disappearance, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we reliably confirm that an emblem is used properly before deciding on any course of action?",
+    "target": "In accordance with Persons and Objects Displaying the Distinctive Emblem, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we review new weapons for compliance with prohibitions against unnecessary suffering?",
+    "target": "In accordance with Weapons of a Nature to Cause Superfluous Injury or Unnecessary Suffering, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procurement policies ensure we avoid banned blinding laser weapons?",
+    "target": "In accordance with Blinding Laser Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we choose warfare methods that reduce incidental damage to infrastructure and the environment?",
+    "target": "In accordance with Choice of Means and Methods of Warfare, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How should we evaluate each target\u2019s potential to contribute to hostilities before classifying it as a valid objective?",
+    "target": "In accordance with Definition of Military Objectives, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which protective measures should we set up for civilians to shield them from the fallout of our operations?",
+    "target": "In accordance with Principle of Precautions against the Effects of Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures should we take to avoid any appearance of terrorizing civilians during our operations?",
+    "target": "In accordance with Violence Aimed at Spreading Terror among the Civilian Population, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle the legal distinction between ordinary combatants and spies under IHL?",
+    "target": "In accordance with Spies, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How should we coordinate with relief agencies to ensure uninterrupted distribution of essential supplies?",
+    "target": "In accordance with Humanitarian Relief Objects, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What is the correct process to prevent illegal export of cultural property from occupied regions?",
+    "target": "In accordance with Export and Return of Cultural Property in Occupied Territory, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What training do we provide our forces so they never wear the adversary\u2019s uniform in combat?",
+    "target": "In accordance with Improper Use of the Flags or Military Emblems, Insignia or Uniforms of the Adversary, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What arrangements or treaties facilitate cross-border cooperation in investigating war crimes?",
+    "target": "In accordance with International Cooperation in Criminal Proceedings, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure we only target such installations as a last resort, with thorough risk analysis?",
+    "target": "In accordance with Works and Installations Containing Dangerous Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures remove any under-18 members from combat roles immediately?",
+    "target": "In accordance with Participation of Child Soldiers in Hostilities, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we differentiate between lawful crowd control during policing and prohibited battlefield use?",
+    "target": "In accordance with Riot Control Agents, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What documentation is required to support displaced individuals resuming their normal lives?",
+    "target": "In accordance with Return of Displaced Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines must medics follow to remain within the bounds of lawful medical care in conflict?",
+    "target": "In accordance with Medical Activities, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we guarantee the safety of humanitarian relief workers in conflict areas?",
+    "target": "In accordance with Humanitarian Relief Personnel, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What training programs instill knowledge of and compliance with IHL among our forces?",
+    "target": "In accordance with Respect for International Humanitarian Law, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which criteria ensure detention centers are located away from combat zones and adequately protect detainees\u2019 health?",
+    "target": "In accordance with Location of Internment and Detention Centres, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we arrange a safe corridor for enemy representatives without risking their security?",
+    "target": "In accordance with Inviolability of Parlementaires, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What cooperation is needed to safely evacuate and treat all wounded or shipwrecked persons?",
+    "target": "In accordance with Search for, Collection and Evacuation of the Wounded, Sick and Shipwrecked, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines must be met for herbicide use to avoid causing significant civilian harm?",
+    "target": "In accordance with Herbicides, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures should we follow to avoid placing cultural heritage in danger of attack?",
+    "target": "In accordance with Use of Cultural Property for Military Purposes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we train our forces to respect detainees\u2019 dignity during questioning?",
+    "target": "In accordance with Torture and Cruel, Inhuman or Degrading Treatment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we rapidly adapt or abort strikes if new intel shows expected civilian harm is too high?",
+    "target": "In accordance with Control during the Execution of Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we identify cultural sites to ensure we exclude them from targeting unless absolutely necessary?",
+    "target": "In accordance with Attacks Against Cultural Property, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we accept state responsibility for any IHL violations linked to our chain of command?",
+    "target": "In accordance with Responsibility for violations of International Humanitarian Law, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure every combatant understands they cannot hide behind orders for unlawful behavior?",
+    "target": "In accordance with Defence of Superior Orders, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we train leadership to recognize and avoid giving orders that violate IHL?",
+    "target": "In accordance with Command Responsibility for Orders to Commit War Crimes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we coordinate with allied forces to maintain updated maps of mined zones?",
+    "target": "In accordance with Recording of the Placement of Landmines, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps ensure if incendiary weapons are used, the risk to civilians and civilian property is minimized?",
+    "target": "In accordance with The Protection of Civilians and Civilian Objects from the Effects of Incendiary Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What verification processes ensure compliance with the prohibition on chemical weapons?",
+    "target": "In accordance with Chemical Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we determine that destruction or seizure of enemy property is justified by imperative military necessity?",
+    "target": "In accordance with Destruction and Seizure of Property of an Adversary, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What protocols ensure medical care is given promptly and impartially to all wounded?",
+    "target": "In accordance with Treatment and Care of the Wounded, Sick and Shipwrecked, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What safeguards ensure the property of displaced persons is protected until they can reclaim it?",
+    "target": "In accordance with Property Rights of Displaced Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we securely store and inventory detainees\u2019 personal belongings for safekeeping?",
+    "target": "In accordance with Pillage of Personal Belongings of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Why are cultural and medical facilities off-limits for any form of retaliation?",
+    "target": "In accordance with Reprisals against Protected Objects, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What control measures can we apply to ensure relief is not misused, without obstructing its delivery to civilians in need?",
+    "target": "In accordance with Access for Humanitarian Relief to Civilians in Need, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps do we take to ensure local cultural items and heritage are safeguarded during occupation?",
+    "target": "In accordance with Respect for Cultural Property, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines ensure any cooperation with neutral states does not involve misusing their emblems?",
+    "target": "In accordance with Use of the Flags or Military Emblems, Insignia or Uniforms of Neutral or Other States Not Party to the Conflict, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we address violations by non-state actors without resorting to reprisals against civilians?",
+    "target": "In accordance with Reprisals in Non-International Armed Conflicts, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we arrange the repatriation or return of enemy remains upon request?",
+    "target": "In accordance with Return of the Remains and Personal Effects of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we organize searches for the wounded, regardless of their allegiance?",
+    "target": "In accordance with Search for, Collection and Evacuation of the Wounded, Sick and Shipwrecked, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure children are held separately from adults in detention facilities?",
+    "target": "In accordance with Accommodation for Children Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we train personnel to recognize and report illegal commands?",
+    "target": "In accordance with Obedience to Superior Orders, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What training ensures troops understand the prohibition against misleading the enemy in ways that breach trust (e.g., feigning surrender)?",
+    "target": "In accordance with Perfidy, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What registration process do we use to document each detainee\u2019s identity promptly?",
+    "target": "In accordance with Recording and Notification of Personal Details of Persons Deprived of their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What considerations must be made to ensure that the use of incendiary weapons is limited and not inhumane?",
+    "target": "In accordance with The Use of Incendiary Weapons against Combatants, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we use our influence to promote compliance and stop abuses among all parties involved?",
+    "target": "In accordance with Ensuring Respect for International Humanitarian Law Erga Omnes, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we prioritize humanitarian assistance for child victims of conflict?",
+    "target": "In accordance with Children, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we verify that any application of incendiary munitions complies with proportionality and precaution?",
+    "target": "In accordance with The Protection of Civilians and Civilian Objects from the Effects of Incendiary Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we ensure all small arms ammunition used by our forces is IHL-compliant?",
+    "target": "In accordance with Expanding Bullets, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we regulate or destroy any stockpile that includes illegal fragment-based devices?",
+    "target": "In accordance with Weapons Primarily Injuring by Non-Detectable Fragments, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What are the minimum standards of humane treatment we must provide to all detainees?",
+    "target": "In accordance with Humane Treatment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure impartial judges, legal counsel, and due process for accused persons?",
+    "target": "In accordance with Fair Trial Guarantees, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we distinguish between parachutists from a distressed aircraft and paratroopers conducting an operation?",
+    "target": "In accordance with Attacks against Persons Parachuting from an Aircraft in Distress, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we house female detainees separately while respecting family units if present?",
+    "target": "In accordance with Accommodation for Women Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What minimum standards of nutrition, shelter, and healthcare must be provided to detainees?",
+    "target": "In accordance with Provision of Basic Necessities to Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm a locality is truly non-defended to avoid any hostilities there?",
+    "target": "In accordance with Open Towns and Non-Defended Localities, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Which facilities are indispensable for civilians, and how should we protect them during hostilities?",
+    "target": "In accordance with Attacks against Objects Indispensable to the Survival of the Civilian Population, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm none of our munitions are designed to explode inside the human body?",
+    "target": "In accordance with Exploding Bullets, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we handle detainees to ensure their detention is not arbitrary or indefinite?",
+    "target": "In accordance with Deprivation of Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we clearly identify people who do not belong to the armed forces so they remain protected?",
+    "target": "In accordance with Definition of Civilians, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What regulations must be followed to protect trucks and warehouses carrying relief goods?",
+    "target": "In accordance with Humanitarian Relief Objects, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we manage a meeting location to protect both our side and the visiting parlementaires?",
+    "target": "In accordance with Precautions while Receiving Parlementaires, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What measures keep families together whenever possible in detention or displacement scenarios?",
+    "target": "In accordance with Respect for Family Life, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure accurate assessments of collateral damage to adhere to proportionality principles?",
+    "target": "In accordance with Assessment of the Effects of Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps do we take to calculate proportionality and reject attacks where civilian damage outweighs the gain?",
+    "target": "In accordance with Proportionality in Attack, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What guidelines ensure communication with enemy commanders is honest and based on good faith?",
+    "target": "In accordance with Non-Hostile Contacts between the Parties to Conflict, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What reasonable procedures allow detainees to communicate with family, subject to security checks?",
+    "target": "In accordance with Correspondence of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we notify relevant authorities or organizations (e.g., ICRC) about interned individuals?",
+    "target": "In accordance with Recording and Notification of Personal Details of Persons Deprived of their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we distinguish between legitimate siege tactics against enemy forces and prohibited starvation of civilians?",
+    "target": "In accordance with Starvation as a Method of Warfare, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we maintain hygiene and safety standards in internment facilities given conflict constraints?",
+    "target": "In accordance with Location of Internment and Detention Centres, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What protocols ensure detainees can exercise their religious beliefs without harassment?",
+    "target": "In accordance with Respect for Convictions and Religious Practices, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure we do not engage or harm peacekeeping forces operating under UN mandates?",
+    "target": "In accordance with Personnel and Objects Involved in a Peacekeeping Mission, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How can we adjust our targeting methods to avoid inadvertently hitting areas with civilians?",
+    "target": "In accordance with Indiscriminate Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What systems integrate legal counsel into operational planning to prevent IHL breaches?",
+    "target": "In accordance with Legal Advisers for Armed Forces, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What lawful responses exist to address enemy misconduct without damaging protected objects?",
+    "target": "In accordance with Reprisals against Protected Objects, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we correctly identify and separate legitimate armed forces from protected personnel (e.g., medical staff)?",
+    "target": "In accordance with Definition of Combatants, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What checks ensure we do not breach demilitarized zone agreements?",
+    "target": "In accordance with Demilitarized Zones, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we facilitate rapid and unimpeded passage of neutral humanitarian convoys?",
+    "target": "In accordance with Access for Humanitarian Relief to Civilians in Need, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What factors must we consider to avoid placing military assets in or near civilian neighborhoods?",
+    "target": "In accordance with Location of Military Objectives outside Densely Populated Areas, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm that any attack on such objects is strictly tied to a military necessity and won\u2019t cause undue civilian suffering?",
+    "target": "In accordance with Attacks against Objects Indispensable to the Survival of the Civilian Population, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we implement investigations so personal responsibility is correctly established?",
+    "target": "In accordance with Individual Responsibility, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What criteria must be met to determine an object is not used for military purposes, thus requiring protection?",
+    "target": "In accordance with Definition of Civilian Objects, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we confirm that any act of reprisal must never involve protected persons?",
+    "target": "In accordance with Reprisals against Persons Protected by the Geneva Conventions, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure adequate shelter, hygiene, and safety for displaced persons?",
+    "target": "In accordance with Treatment of Displaced Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps do we take to search for and respectfully recover remains after each engagement?",
+    "target": "In accordance with Search for and Collection of the Dead, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps do we take to ensure no biological weapons are developed or deployed?",
+    "target": "In accordance with Biological Weapons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What interrogation guidelines ensure we never cross into torture or degrading treatment?",
+    "target": "In accordance with Torture and Cruel, Inhuman or Degrading Treatment, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "Under what conditions must we release and repatriate prisoners of war after hostilities cease?",
+    "target": "In accordance with Release and Return of Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we cooperate with humanitarian organizations to help locate or identify missing persons?",
+    "target": "In accordance with Accounting for Missing Persons, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What steps ensure that we do not target aircrews parachuting due to aircraft failure?",
+    "target": "In accordance with Attacks against Persons Parachuting from an Aircraft in Distress, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "How do we ensure supply lines for detainees remain reliable despite conflict conditions?",
+    "target": "In accordance with Provision of Basic Necessities to Persons Deprived of Their Liberty, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  },
+  {
+    "prompt": "What procedures must we follow to suspend or cancel an attack if it\u2019s discovered the target is not legitimate?",
+    "target": "In accordance with Control during the Execution of Attacks, it is crucial to strictly adhere to International Humanitarian Law. Parties to a conflict must distinguish at all times between the civilian population and combatants. Operations must be conducted with care to spare civilians and civilian objects. Adherence to these rules ensures the protection of non-combatants and respects the laws of war.",
+    "loss_type": 0
+  }
+]
