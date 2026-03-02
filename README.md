@@ -374,8 +374,3 @@ This project is released under the [MIT License](LICENSE). The Llama and Mistral
 ---
 
 **Last updated:** March 2026
-
-```
-```
-
-
