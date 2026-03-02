@@ -1,12 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Just give me the new version of the readme and I will change it myself
-
-Here is the full updated `README.md`. Replace the entire current content with this:
-
-***
-
-```markdown
 # Evaluating and Improving IHL Safety of Llama-3-8B and Mistral-7B
 
 This repository contains the code and pipeline to evaluate and improve IHL (International Humanitarian Law) compliance in large language models using circuit-breaker training. It covers two models: **Llama-3-8B-Instruct** (original work) and **Mistral-7B-Instruct-v0.3** (extended work), both trained with LoRA-based circuit-breaker adapters.
